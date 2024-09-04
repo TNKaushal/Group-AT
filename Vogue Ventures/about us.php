@@ -12,7 +12,7 @@
             padding: 0;
             background-color: #f8f8f8;
         }
-
+        /* container*/
         .container {
             width: 80%;
             margin: 0 auto;
